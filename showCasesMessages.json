@@ -1,0 +1,11 @@
+{
+  "showCaseMessages": [
+    "5G_READY": "Tarifário móvel com rede 5G disponível",
+    "ROAMING_UE": "Inclui chamadas e dados Roaming UE",
+    "0_FIDELIZACAO": "Sem fidelização",
+	"W_FIDELIZACAO": "%% fidelização",
+    "FREE_MONTH_TAG": "1º mês grátis"
+    "FREE_MONTH": "Experimenta grátis durante 30 dias",
+	"PROMO_FREE_DADOS": "Promo %% EXTRA Dados móveis"
+  ]
+}
